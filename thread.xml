@@ -1,5 +1,5 @@
 [SIZE="3"]
-[CENTER][IMG]http://i.imgur.com/wSbwCpZ.png[/IMG]
+[CENTER][IMG]https://i.imgur.com/6hjdrBL.png[/IMG]
 
 [FONT="Trebuchet MS"][SIZE="6"]This is [B][COLOR=#4285F4]ViperOS[/COLOR][/B][/SIZE][/FONT][/CENTER]
 
@@ -23,24 +23,27 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 * Battery icon settings
 * Carrier label
 * Quick settings personalization
+* Ticker notifications
 * Other statusbar settings
+
+[B]Recents[/B]
+* Button circle
+* Layout recents
 
 [B]Lockscreen[/B]
 * Custom lockscreen settings
-* Lockscreen weather
-
-[B]Multi tasking[/B]
-* Round button on recents
+* Lockscreen clock style
 
 [B]System[/B]
-* Beautiful black theme
+* Beautiful theme engine
 * Navbar enable/disable
-* Navbar dimensions
 * Navbar button layout
 * Hardware keys binding
 * Hardware keys enable/disable
 * Kill app with back button
 * Power menu customization
+* Fonts selector
+* Battery LED
 
 Many other customizations, install and take a look
 [/HIDE]
