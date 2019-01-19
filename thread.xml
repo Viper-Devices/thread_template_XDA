@@ -17,33 +17,30 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 [HIDE]
 [B]Statusbar[/B]
 
-* Traffic indicators
-* Statusbar items
-* Clock & date
-* Battery icon settings
-* Carrier label
-* Quick settings personalization
-* Ticker notifications
-* Other statusbar settings
+QS settings
+Clock statusbar settings
+Battery style
+Carrier label
+Network traffic
+4G/LTE icon toggle
+Rounded corner settings
 
 [B]Recents[/B]
-* Button circle
-* Layout recents
+Style recents AOSP and QuickStep
+Button clear and Membar for recents AOSP
 
 [B]Lockscreen[/B]
-* Custom lockscreen settings
-* Lockscreen clock style
+Face auto unlock
+WheaterClient
+Battery info Charging
 
 [B]System[/B]
-* Beautiful theme engine
-* Navbar enable/disable
-* Navbar button layout
-* Hardware keys binding
-* Hardware keys enable/disable
-* Kill app with back button
-* Power menu customization
-* Fonts selector
-* Battery LED
+Color engine
+theme QS style
+Buttons and navbar settings
+LED battery Charging
+LED notifications colors
+Power Menu advanced
 
 Many other customizations, install and take a look
 [/HIDE]
@@ -51,7 +48,7 @@ Many other customizations, install and take a look
 [FONT="Trebuchet MS"][SIZE="5"][COLOR=#4285F4][B]Download:[/B][/COLOR][/SIZE][/FONT]
 [HIDE]
 [INDENT][SIZE="4"]
-Official website: [B][URL="https://viperos.com"]Download[/URL][/B]
+Official website: [B][URL="https://viperos.gitlab.io/download/#YOUR_DEVICE"]Download[/URL][/B]
 
 [B]GApps: [/B]
 OpenGapps: [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
@@ -76,6 +73,7 @@ And all other open source Devs/Teams I may have missed!
 [B][URL="https://t.me/viperos_news"]Telegram channel[/URL][/B]
 [B][URL="https://t.me/viperos_chat"]Telegram chat discussion[/URL][/B]
 [B][URL="https://github.com/Viper-Project"]ROM source[/URL][/B]
+[B][URL="https://github.com/Viper-Devices"]Devices source[/URL][/B]
 [/INDENT]
 [/SIZE]
 [/LEFT]
