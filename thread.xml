@@ -14,8 +14,9 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 
 [FONT="Trebuchet MS"][SIZE="5"][COLOR=#4285F4][B]Features:[/B][/COLOR][/SIZE][/FONT]
 [HIDE]
-[B]Statusbar[/B]
+[B]Added OTA Services updater[/B]
 
+[B]Statusbar[/B]
 QS settings
 Clock statusbar settings
 Battery style
@@ -23,6 +24,7 @@ Carrier label
 Network traffic
 4G/LTE icon toggle
 Rounded corner settings
+QS for Reboot/Recovery
 
 [B]Recents[/B]
 Style recents AOSP and QuickStep
@@ -40,6 +42,7 @@ Buttons and navbar settings
 LED battery Charging
 LED notifications colors
 Power Menu advanced
+Fonts packages
 
 Many other customizations, install and take a look
 [/HIDE]
