@@ -24,6 +24,7 @@ Carrier label
 Network traffic
 VoLTE icon toggle
 4G/LTE icon toggle
+VPN toggle
 Rounded corner settings
 QS for Reboot/Recovery
 QS Screenshot full and partial
@@ -37,7 +38,7 @@ Face auto unlock
 Fingerprint authentication vibration
 WheaterClient
 Battery info Charging
-Ambient music ticker
+Ambient music ticker with new style
 
 [B]System[/B]
 Color engine
@@ -50,6 +51,8 @@ LED notifications colors
 Power Menu advanced
 Fonts packages
 Pulse Navbar
+OP Gestures
+Thermal Controller support
 VPapers new
 
 Many other customizations, install and take a look
@@ -58,11 +61,10 @@ Many other customizations, install and take a look
 [FONT="Trebuchet MS"][SIZE="5"][COLOR=#4285F4][B]Download:[/B][/COLOR][/SIZE][/FONT]
 [HIDE]
 [INDENT][SIZE="4"]
-Official website: [B][URL="https://viperos.gitlab.io/download/#YOUR_DEVICE"]Download[/URL][/B]
+Official website: [B][URL="https://viperos.gitlab.io/download/?codename=CODENAME YOUR DEVICE HERE"]Download[/URL][/B]
 
 [B]GApps: [/B]
 OpenGapps: [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
-ViperGapps: [B][URL="https://sourceforge.net/projects/viper-project/files/ViperGApps/"]ViperGApps[/URL][/B]
 
 [/SIZE][/INDENT]
 [/HIDE]
@@ -83,6 +85,7 @@ And all other open source Devs/Teams I may have missed!
 [INDENT]
 [B][URL="https://t.me/viperos_news"]Telegram channel[/URL][/B]
 [B][URL="https://t.me/viperos_chat"]Telegram chat discussion[/URL][/B]
+[B][URL="https://t.me/vpapers"]Wallpapers channel[/URL][/B]
 [B][URL="https://github.com/ViperOS"]ROM source[/URL][/B]
 [B][URL="https://github.com/Viper-Devices"]Devices source[/URL][/B]
 [/INDENT]
